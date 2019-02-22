@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce436ff-f601-444f-9812-98640bf52896" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bleargh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bleargh/Assign1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bleargh/Assign2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bleargh/Assign3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bleargh/Assign4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bleargh/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section020/assign1/Assign1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section020/Assign2/Assign2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section020/Assign3/Assign3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section020/Assign4/Assign4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,38 +34,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assign1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assign2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assign3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assign4.java">
+        <entry file="file://$PROJECT_DIR$/src/section020/assign1/Assign1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/section020/Assign2/Assign2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/section020/Assign3/Assign3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/section020/Assign4/Assign4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -100,16 +91,19 @@
         <option value="$PROJECT_DIR$/src/Assign1.java" />
         <option value="$PROJECT_DIR$/src/Assign3.java" />
         <option value="$PROJECT_DIR$/src/Assign4.java" />
+        <option value="$PROJECT_DIR$/src/assign1/Assign1.java" />
+        <option value="$PROJECT_DIR$/src/section020/Assign4/Assign4.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="431" />
-    <option name="y" value="23" />
-    <option name="width" value="827" />
-    <option name="height" value="718" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1280" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -136,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550787482145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550852146535" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -157,14 +151,14 @@
   </component>
   <component name="RunManager" selected="Application.Assign4">
     <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assign1" />
+      <option name="MAIN_CLASS_NAME" value="section020.assign1.Assign1" />
       <module name="Bleargh" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Assign2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assign2" />
+      <option name="MAIN_CLASS_NAME" value="section020.Assign2.Assign2" />
       <module name="Bleargh" />
       <option name="PROGRAM_PARAMETERS" value="good bad" />
       <method v="2">
@@ -172,14 +166,14 @@
       </method>
     </configuration>
     <configuration name="Assign3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assign3" />
+      <option name="MAIN_CLASS_NAME" value="section020.Assign3.Assign3" />
       <module name="Bleargh" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Assign4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assign4" />
+      <option name="MAIN_CLASS_NAME" value="section020.Assign4.Assign4" />
       <module name="Bleargh" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -195,9 +189,9 @@
     <list>
       <item itemvalue="Application.Assign1" />
       <item itemvalue="Application.Assign2" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Assign3" />
       <item itemvalue="Application.Assign4" />
+      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
@@ -232,9 +226,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="431" y="23" width="827" height="718" extended-state="0" />
+    <frame x="1280" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.28152865" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917626" visible="true" weight="0.13492064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -248,7 +242,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2747604" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48367348" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.41054314" />
@@ -294,9 +288,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Assign2.java</url>
+          <url>file://$PROJECT_DIR$/src/section020/Assign2/Assign2.java</url>
           <line>3</line>
-          <properties class="Assign2" method="main">
+          <properties class="Assign2">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
@@ -316,31 +310,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assign1.java">
+    <entry file="file://$PROJECT_DIR$/src/section020/Assign2/Assign2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assign3.java">
+    <entry file="file://$PROJECT_DIR$/src/section020/Assign3/Assign3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assign2.java">
+    <entry file="file://$PROJECT_DIR$/src/section020/Assign4/Assign4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assign4.java">
+    <entry file="file://$PROJECT_DIR$/src/section020/assign1/Assign1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
