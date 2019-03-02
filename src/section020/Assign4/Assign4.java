@@ -1,3 +1,5 @@
+package section020.Assign4;
+
 import java.util.Scanner;
 
 public class Assign4 {

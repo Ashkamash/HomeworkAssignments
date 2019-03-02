@@ -1,7 +1,8 @@
+package section020.assign1;
+
 public class Assign1{
     public static void main(String[] args){
         double[] intArray = {1,4,89,100};
-        int current = 0;
         double sum = 0;
         for (int i = 0; i < (intArray.length); i++){
             double valueCurrent = intArray[i];
